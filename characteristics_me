@@ -8,7 +8,7 @@ using namespace std;
 	float altura = 1.73;
 	string nome = "Lucas dos Santos";
 	char sexo = 'M';
-	char certo[20];
+	
 
 int main (void){
 	
