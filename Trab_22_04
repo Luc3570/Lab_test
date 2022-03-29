@@ -23,7 +23,7 @@ int main (){
 	cin>> valor;
 	
 	cout<<"\nSerá necessário para viagem:" << distancia / consumo << "litros";
-	cout<<"\nSerá necessário parar para abastecer:" << int (( distancia / (tanque * consumo))+0.999)<< "vezes"; // adicionei +0,999 para indicar em numero inteiro
+	cout<<"\nSerá necessário parar para abastecer:" << int ( distancia / (tanque * consumo))<< "vezes"; 
 	cout<<"\nSerá gasto na viagem:" << (distancia / consumo) * valor << "reais";
 	
 	
