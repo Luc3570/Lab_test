@@ -22,9 +22,9 @@ int main (){
 	cout<<"Qual o valor do combustível?";
 	cin>> valor;
 	
-	cout<<"\nSerá necessário para viagem:" << distancia / consumo << "litros";
-	cout<<"\nSerá necessário parar para abastecer:" << int ( distancia / (tanque * consumo))<< "vezes"; 
-	cout<<"\nSerá gasto na viagem:" << (distancia / consumo) * valor << "reais";
+	cout<<"\nSerá necessário para viagem: " << distancia / consumo << " litros";
+	cout<<"\nSerá necessário parar para abastecer: " << int ( distancia / (tanque * consumo))<< " vezes"; 
+	cout<<"\nSerá gasto na viagem: " << (distancia / consumo) * valor << " reais";
 	
 	
 	
