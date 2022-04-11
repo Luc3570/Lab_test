@@ -19,7 +19,7 @@ int main(){
 	
 	
 	
-	cout<<"Insira um numero de 1 a 10 e veja se acerta o número secreto: ";
+	cout<<"Insira um número de 1 a 100 e veja se acerta o número secreto: ";
 	cin>> num;
 	
 	for (int i = 1; i++;)
@@ -44,7 +44,7 @@ else
 	cout<<"\nO número é menor";
 	
 }
-    cout<<"\nInsira um numero de 1 a 10 e veja se acerta o número secreto: ";
+    cout<<"\nInsira um numero de 1 a 100 e veja se acerta o número secreto: ";
 	cin>> num;
     
     
