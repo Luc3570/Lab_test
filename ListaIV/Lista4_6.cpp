@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//6. Ler N números e contar quantos são pares. O programa deve parar quando ler um múltiplo de 11.
+//6. Ler N nÃºmeros e contar quantos sÃ£o pares. O programa deve parar quando ler um mÃºltiplo de 11.
 
 int main(){
 	setlocale(LC_ALL,"Portuguese");
@@ -11,7 +11,7 @@ int main(){
 	
 	while(true)
 	{
-		cout<<"Insira um número: ";
+		cout<<"Insira um nÃºmero: ";
 		cin>>numero;
 		
 		if(numero % 2 == 0)
@@ -24,5 +24,5 @@ int main(){
 		}
 	}
 	
-	cout<<"Números pares inseridos até um múltiplo de onze ser digitado: "<<pares;
+	cout<<"NÃºmeros pares inseridos atÃ© um mÃºltiplo de onze ser digitado: "<<pares;
 }
