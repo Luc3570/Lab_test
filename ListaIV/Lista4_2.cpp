@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//2. Ler 5 números e informar quantos desses eram ímpares.
+//2. Ler 5 nÃºmeros e informar quantos desses eram Ã­mpares.
 
 int main(){
 	setlocale(LC_ALL,"Portuguese");
@@ -12,7 +12,7 @@ int main(){
 	
 	for(i = 0; i<5; i++)
 	{
-		cout<<"Insira um número: ";
+		cout<<"Insira um nÃºmero: ";
 		cin>>numero;
 		
 	    if (numero % 2 != 0)
@@ -22,5 +22,5 @@ int main(){
 	
 	}
 	
-	cout<<"O total de números que eram ímpares é: "<< result;
+	cout<<"O total de nÃºmeros que eram Ã­mpares Ã©: "<< result;
 }
