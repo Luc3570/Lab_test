@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//5. FaÁa um programa em que o usu·rio digite 2 valores e se a soma deles for maior que 15 o programa encerra, caso contr·rio, repete.
+//5. Fa√ßa um programa em que o usu√°rio digite 2 valores e se a soma deles for maior que 15 o programa encerra, caso contr√°rio, repete.
 
 int main(){
 	setlocale(LC_ALL,"Portuguese");
@@ -12,10 +12,10 @@ int main(){
 	
 	while(true)
 	{
-		cout<<"Insira um n˙mero: ";
+		cout<<"Insira um n√∫mero: ";
 		cin>>valor1;
 		
-		cout<<"Insira outro n˙mero: ";
+		cout<<"Insira outro n√∫mero: ";
 		cin>>valor2;
 		
 		soma = valor1 + valor2;
