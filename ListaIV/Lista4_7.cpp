@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//7. Faça um programa que receba um número e que calcule e mostre a tabuada desse número.
+//7. FaÃ§a um programa que receba um nÃºmero e que calcule e mostre a tabuada desse nÃºmero.
 
 int main(){
 	setlocale(LC_ALL,"Portuguese");
@@ -10,7 +10,7 @@ int main(){
 	int i;
 	int tab = 1;
 	
-	cout<<"Insira o número que deseja a tabuada: ";
+	cout<<"Insira o nÃºmero que deseja a tabuada: ";
 	cin>>numero;
 	
 	for(i = 0; i<10 ; i++)
