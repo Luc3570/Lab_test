@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
  
-//1. Faça um programa que conte de 101 a 150 usando o laço.
+//1. FaÃ§a um programa que conte de 101 a 150 usando o laÃ§o.
 
 int main(){
 	setlocale(LC_ALL,"Portuguese");
