@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//4. Ler 5 números e informar o menor e o maior.
+//4. Ler 5 nÃºmeros e informar o menor e o maior.
 
 int main(){
 	setlocale(LC_ALL,"Portuguese");
@@ -11,14 +11,14 @@ int main(){
 	int maior;
 	int menor;
 	
-	cout<<"Insira um número: ";
+	cout<<"Insira um nÃºmero: ";
 	cin>>numero;
 	maior = numero;
 	menor = numero;
 	
 	for(i = 0; i < 4; i++)
 	{
-		cout<<"Insira um número: ";
+		cout<<"Insira um nÃºmero: ";
 		cin>>numero;
 		
 		if(numero>maior)
@@ -31,5 +31,5 @@ int main(){
 		}
 	}
 	
-	cout<<"O menor número digitado foi: "<<menor<<" e o maior foi: "<<maior;
+	cout<<"O menor nÃºmero digitado foi: "<<menor<<" e o maior foi: "<<maior;
 }
