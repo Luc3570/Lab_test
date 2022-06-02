@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//3. Ler a idade de 10 pessoas e imprimir quantas são maiores de idade.
+//3. Ler a idade de 10 pessoas e imprimir quantas sÃ£o maiores de idade.
 
 int main(){
 	setlocale(LC_ALL,"Portuguese");
@@ -22,5 +22,5 @@ int main(){
 	
 	}
 	
-	cout<<"O total de maiores de idade é: "<< result;
+	cout<<"O total de maiores de idade Ã©: "<< result;
 }
