@@ -7,7 +7,6 @@ int main(){
 	setlocale(LC_ALL,"Portuguese");
 	
 	int numero;
-	int i;
 	int maior;
 	int menor;
 	
@@ -16,7 +15,7 @@ int main(){
 	maior = numero;
 	menor = numero;
 	
-	for(i = 0; i < 4; i++)
+	for(int i = 0; i < 4; i++)
 	{
 		cout<<"Insira um número: ";
 		cin>>numero;
