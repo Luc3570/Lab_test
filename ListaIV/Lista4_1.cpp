@@ -7,9 +7,8 @@ int main(){
 	setlocale(LC_ALL,"Portuguese");
 	
 	int numero;
-	int i;
 	
-	for(i = 101; i <= 150; i++)
+	for(int i = 101; i <= 150; i++)
 	{
 		numero = i;
 		cout<< numero<< " ";
