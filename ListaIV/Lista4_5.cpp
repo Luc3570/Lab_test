@@ -8,7 +8,6 @@ int main(){
 	
 	int valor1, valor2;
 	int soma;
-	int i;
 	
 	while(true)
 	{
