@@ -7,10 +7,9 @@ int main(){
 	setlocale(LC_ALL,"Portuguese");
 	
 	int idade;
-	int i;
 	int result = 0;
 	
-	for(i = 0; i<10; i++)
+	for(int i = 0; i<10; i++)
 	{
 		cout<<"Insira sua idade: ";
 		cin>>idade;
