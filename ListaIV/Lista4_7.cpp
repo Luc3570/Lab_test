@@ -7,13 +7,12 @@ int main(){
 	setlocale(LC_ALL,"Portuguese");
 	
 	int numero;
-	int i;
 	int tab = 1;
 	
 	cout<<"Insira o número que deseja a tabuada: ";
 	cin>>numero;
 	
-	for(i = 0; i<10 ; i++)
+	for(int i = 0; i<10 ; i++)
 	{
 		cout << " \n " << numero << " x "<< tab << " : " << (numero * tab);
 		tab++;
