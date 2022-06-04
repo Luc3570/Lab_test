@@ -7,10 +7,9 @@ int main(){
 	setlocale(LC_ALL,"Portuguese");
 	
 	int numero;
-	int i;
 	int result = 0;
 	
-	for(i = 0; i<5; i++)
+	for(int i = 0; i<5; i++)
 	{
 		cout<<"Insira um número: ";
 		cin>>numero;
