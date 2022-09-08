@@ -1,11 +1,10 @@
-
 <html lang ='pt-br'>
 
     <head>
 
         <meta charset = 'utf-8'/>
 
-        <title> HTML5 </title>
+        <title> FLU </title>
 
 
     </head>
@@ -33,19 +32,19 @@
 
             <hgroup>
 
-                <h1> Livro sobre HTML </h1>
+                <h1> Fluminense </h1>
 
-                <h2> Como criar uma página </h2>
+                <h2> O maior time do Brasil </h2>
 
             </hgroup>
 
-        <p> O curso de HTML é muito importante </p>
+        <p> Dinizismo </p>
 
             <section>
 
-                <h1> O HTML 5 </h1>
+                <h1> O poder da amizade </h1>
 
-                <p> Surgimento do HTML 5 </p>
+                <p> PH Ganso o maestro </p>
 
             </section>
 
@@ -61,7 +60,7 @@
 
         <figure>
             
-            <figcaption>Foto da seleção</figcaption>
+            <figcaption>Foto da seleflu</figcaption>
 
             <img src="flu.jpg">
 
