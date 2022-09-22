@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            p.center    {
+                text-align: center;
+                color: red;
+            }
+
+            p.large {
+                font-size: 300%;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <h1 class="center">Este cabeçalho não será afetado</h1>
+        <p class="center">Este parágrafo será vermelho e alinhado no centro</p>
+        <p class="center large">Este parágrafo será vermelho, alinhado no centro e com uma fonte maior</p>
+    </body>
+</html>
+    
