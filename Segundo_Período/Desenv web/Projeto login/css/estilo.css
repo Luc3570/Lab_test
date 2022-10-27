@@ -28,9 +28,13 @@ input#cadastrar {
 
 
 div#form-login {
-    /*background-color: red;*/
     width: 450px;
     margin: 150px auto;
+}
+
+div#form-cad {
+    width: 450px;
+    margin: 20px auto;
 }
 
 
