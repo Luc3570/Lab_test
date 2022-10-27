@@ -1,0 +1,227 @@
+table.principal   {
+    font-family: Arial;
+    margin:auto;
+    border-collapse: collapse;
+    width: 660px;
+    height: 600px;
+    border: solid 1px #DDDDDD;
+    table-layout: fixed;
+}
+
+table.secundaria    {
+    font-family: Arial;
+    margin:auto;
+    border-collapse: collapse;
+    width: 660px;
+    height: 20px;
+    border: solid 1px #DDDDDD;
+    border-bottom: 0px;
+    border-top: 0px;
+}
+
+table.terciaria    {
+    font-family: Arial;
+    margin:auto;
+    border-collapse: collapse;
+    width: 660px;
+    height: 20px;
+    border: solid 1px #DDDDDD;
+    border-top: 0px;
+}
+
+td.Posições {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: solid 1px #DDDDDD;
+    width: 14px;
+}
+
+td.Posiçõesg3 {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #003366;
+    border-bottom: solid 1px #DDDDDD ; 
+    width: 14px;
+}
+
+td.Posiçãog4    {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #1398BE ;
+    border-bottom: solid 2px #CCCCCC ; 
+    width: 14px;
+}
+
+td.Posiçõesg12  {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #DE9800 ;
+    border-bottom: solid 1px #DDDDDD ; 
+    width: 14px;
+}
+
+td.Posiçõesg15  {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #CCCCCC ;
+    border-bottom: solid 1px #DDDDDD ; 
+    width: 14px;
+}
+
+td.Posiçãog16   {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #CCCCCC ;
+    border-bottom: solid 2px #CCCCCC ; 
+    width: 14px;
+}
+
+td.Posiçõesg20  {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #C91B04 ;
+    border-bottom: solid 1px #DDDDDD ; 
+    width: 14px;
+}
+
+td.Nomes    {
+    font-size: 14px;
+    color: #666666;
+    font-weight: bold;
+    text-align: left;
+    border-bottom: solid 1px #DDDDDD ; 
+    width: 64px;
+}
+
+td.Títulos  {
+    text-align: center;
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+    border-bottom: solid 1px #DDDDDD ; 
+    width: 14px;
+
+}
+
+td.TítulosP {
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    background-color:  #F7F7F7;
+    border-bottom: solid 1px #DDDDDD ; 
+    width: 14px;
+}
+
+td.TítulosCinza {
+    text-align: center;
+    font-size: 13px;
+    color: #999999;
+    background-color:  #F7F7F7;
+    border-bottom: solid 1px #DDDDDD ;
+    width: 14px;
+ 
+}
+
+td.Nomes416    {
+    font-size: 14px;
+    color: #666666;
+    font-weight: bold;
+    text-align: left;
+    border-bottom: solid 2px #CCCCCC ;
+    width: 64px; 
+}
+
+td.Títulos416  {
+    text-align: center;
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+    border-bottom: solid 2px #CCCCCC ; 
+    width: 14px;
+}
+
+td.TítulosP416 {
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    background-color:  #F7F7F7;
+    border-bottom: solid 2px #CCCCCC ; 
+    width: 14px;
+}
+
+td.TítulosCinza416 {
+    text-align: center;
+    font-size: 13px;
+    color: #999999;
+    background-color:  #F7F7F7;
+    border-bottom: solid 2px #CCCCCC ;
+    width: 14px; 
+}
+
+div.quadrado1    {
+    line-height:0; 
+    width:0;
+    height:0;
+    border: 4px solid;
+    border-color: #003366;
+    border-radius: 2px;
+    margin:auto
+}
+
+div.quadrado2    {
+    line-height:0; 
+    width:0;
+    height:0;
+    border: 4px solid;
+    border-color: #1398BE;
+    border-radius: 2px;
+    margin:auto
+   }
+
+div.quadrado3    {
+    line-height:0; 
+    width:0;
+    height:0;
+    border: 4px solid;
+    border-color: #DE9800;
+    border-radius: 2px;
+    margin:auto
+   }
+
+div.quadrado4    {
+    line-height:0; 
+    width:0;
+    height:0;
+    border: 4px solid;
+    border-color: #C91B04;
+    border-radius: 2px;
+    margin:auto
+   }
+
+td.legendas1    {
+    font-size: 10px;
+    color: #8F8F8F;
+    text-align: left;
+    margin: 50%;
+}
+
+td.legendassigla    {
+    font-size: 10px;
+    color: #555555;
+    text-align: left;
+    font-weight: bold;
+    text-align: center;
+}
+
+td.legendassig  {
+    font-size: 10px;
+    color: #555555;
+    text-align: left; 
+}
